@@ -67,17 +67,6 @@ const Home = (props) => {
               </div>
             </div>
             <div className="home-image1">
-              <ul className="list">
-                <li className="list-item">
-                  <span>Text</span>
-                </li>
-                <li className="list-item">
-                  <span>Text</span>
-                </li>
-                <li className="list-item">
-                  <span>Text</span>
-                </li>
-              </ul>
               <img
                 alt="image"
                 src="/playground_assets/hero-600w.png"
