@@ -8,7 +8,7 @@ const Home = (props) => {
     <>
       <div className="home-container">
         <Head>
-          <title>Up Start Finance</title>
+          <title>Up Start Madflows</title>
           <meta property="og:title" content="Up Start Finance" />
         </Head>
         <div className="navbar-container">
