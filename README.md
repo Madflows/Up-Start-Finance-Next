@@ -1,5 +1,3 @@
 ## Up-Start-Finance-Next
 
----
-
-Something here
+A modern landing page built with NextJS and styled-components
